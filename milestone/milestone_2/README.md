@@ -17,16 +17,16 @@ Link to Data Set(includes sources): [**Data Set**](https://docs.google.com/sprea
 
 ### Data Sources and Variable Definitions
 
-1. [**Ladder score**]( https://worldhappiness.report/*) 
+1. [**Ladder score**]( https://worldhappiness.report/data/) 
 
 Happiness score or subjective well-being (variable name ladder ): The survey measure of SWB is from the February 15, 2024 release of the Gallup World Poll (GWP) covering years from 2005/06 to 2023. Unless stated otherwise, it is the national average response to the question of life evaluations. The English wording of the question is “Please imagine a ladder, with steps numbered from
 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. 
 
-2. [**Logged GDP per capita**]( https://worldhappiness.report/*) 
+2. [**Logged GDP per capita**](https://worldhappiness.report/data/) 
 
 The statistics of GDP per capita (variable name gdp) in purchasing power parity (PPP) at constant 2017 international dollar prices are from World Development Indicators (WDI, version 17, metadata last updated on Jan 22, 2023). 
-3. [**Social support**](https://stats.oecd.org/viewhtml.aspx?datasetcode=HSL&lang=en)
 
+3. [**Social support**](https://stats.oecd.org/viewhtml.aspx?datasetcode=HSL&lang=en)
 
 Social support indicates the share of people who report having friends or relatives whom they can count on in times of trouble. Individuals who say they have family and friends they can count on to help them in times of trouble are consistently more likely to be satisfied with their personal health.Due to small sample sizes, country averages for horizontal inequalities (by age, gender and education) are pooled between 2010-20 to improve the accuracy of the estimates. This indicator is measured as a percentage of survey respondents. 
 
@@ -42,9 +42,7 @@ The Human Freedom Index gives each country a score from 0 to 10, wherein a score
 
 The World Giving Index measures how people perceive their current life situation and its connection to charitable giving. Positive ratings of life today correlate with higher likelihood of donating money to charity. This index provides valuable insights into global trends in generosity, fostering a better understanding of social engagement and community benefit. Each country is assigned an index score and global ranking based on the average of positive responses, with higher scores indicating greater engagement in giving. The lowest possible score is zero and the highest possible score is 100.
 
-
 7. [**Corruption perceptions index**](https://www.transparency.org/en/cpi/2022)
 
 The 2022 Corruption Perceptions Index (CPI) shows that most countries are failing to stop corruption.
-
 The CPI ranks 180 countries and territories around the world by their perceived levels of public sector corruption, scoring on a scale of 0 (highly corrupt) to 100 (very clean).
