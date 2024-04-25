@@ -26,3 +26,22 @@ Researching these questions can help to better understand what factors influence
 * **Assessing the impact of policies and programs**: Happiness rankings can serve as an indicator of the effectiveness of social programs, economic policies and other initiatives in the area of well-being and life satisfaction. It helps to identify which measures lead to to improve the quality of life and happiness of the population.
 
 * **Development of improvement strategies**: Analyzing happiness rankings can help develop strategies and programs to improve quality of life and life satisfaction in different countries. It allows to identify key aspects that should be improved to achieve higher levels of well-being.
+
+
+# Milestone 2: 
+
+## <font color="blue">Data Collection</font>
+
+
+### Non-Technical Explanation of Domain Modeling
+
+In this project, domain modeling is like creating a map to help us navigate the complex landscape of global happiness levels. It's a visual guide, like a map, that helps us understand how economic prosperity, social support systems, health indicators, and personal freedoms influence the happiness of people in different parts of the world.
+
+###  Data Collection and Cleaning Scripts
+
+For transparency and replication, I provide all scripts for data collection and cleaning, covering the entire process, including data partitioning.
+
+### Research Work
+Engaged in Data Science research, I focus on identifying deep patterns and trends that shed light on what makes people happy around the world. Through rigorous analysis and innovative approaches, I aim to make a significant contribution to understanding and promoting happiness around the world.
+
+**_Be aware that the full description of this milestone you can find by refer to [README](./milestone/milestone_2/README.md)_**
