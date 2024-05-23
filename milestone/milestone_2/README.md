@@ -12,7 +12,7 @@ Just as a map helps us understand the terrain we're navigating, domain modeling 
 
 ## Data Set Documentation
 
-I will utilize datasets from reputable sources such as the World Happiness Report, World Bank, WHO, OECD and other international organizations. These datasets provide information on various socio-economic indicators, including the ones mentioned earlier, for countries around the globe.
+It will use data sets from reputable sources such as the World Happiness Report, World Bank, WHO, OECD and other international organizations. These datasets provide information on various socio-economic indicators, including the ones mentioned earlier, for countries around the globe.
 Link to Data Set(includes sources): [**Data Set**](https://docs.google.com/spreadsheets/d/1SelWcB4TQbGX0OhFNgqy-W72kPSMUekBOAhTo1rPtVY/edit#gid=765586022)
 
 ### Data Sources and Variable Definitions
