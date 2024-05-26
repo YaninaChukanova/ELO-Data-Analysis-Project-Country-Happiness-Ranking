@@ -1,5 +1,32 @@
 # Data Analysis using CSV Files
 
+## Objective
+My primary objective is to conduct a comprehensive analysis of the happiness rating of countries using data on multiple indicators. By examining these indicators, I hope to identify patterns, correlations, and factors that significantly impact the happiness levels of nations. Ultimately, my goal is to contribute valuable insights that can inform policymakers, researchers, and the general public about the determinants of happiness and well-being across different countries of the world.
+
+## Data Sources
+ I will utilize datasets from reputable sources such as the World Happiness Report, WHO, OECD, and other international organizations. These datasets provide information on various socio-economic indicators, including the ones mentioned earlier, for countries around the globe. I will preprocess and clean the data to ensure its accuracy and reliability for my analysis.
+
+## Methodology
+
+ Analysis will involve several steps:
+
+1.	Data Collection: Gather datasets containing information on the happiness rating and related indicators for different countries.
+2.	Data Preprocessing: Clean the data, handle missing values, and ensure consistency across datasets.
+3.	Exploratory Data Analysis (EDA): Conduct exploratory analysis to understand the distribution, relationships, and trends within the data.
+4.	Feature Engineering: Extract relevant features from the data and create new variables if necessary to enhance our analysis.
+5.	Statistical Analysis: Apply statistical techniques to identify correlations and patterns between happiness rating and other indicators.
+6.	Visualization: Visualize the findings using charts, graphs, and interactive visualizations to communicate insights effectively.
+7.	Interpretation: Interpret the results and draw conclusions based on my analysis, highlighting key factors influencing happiness levels in different countries.
+
+## Deliverables
+The deliverables of this project will include:
+•	Jupyter Notebook: A detailed notebook containing the code, analysis, and visualizations generated during the project.
+•	Presentation Slides: A concise presentation summarizing  findings, insights, and recommendations.
+•	Report: A comprehensive report documenting the methodology, analysis approach, results, and conclusions of the project.
+
+## Conclusion
+By conducting this analysis, my aim to contribute to the understanding of what factors contribute to happiness at the country level. This findings may provide valuable insights for policymakers, governments, and organizations seeking to promote well-being and improve the quality of life for people worldwide. I look forward to sharing this results and contributing to the broader discourse on happiness and societal well-being.
+
 ## Description
 
 This project involves the analysis of data from  CSV file containing information 
@@ -15,7 +42,8 @@ This project involves the analysis of data from  CSV file containing information
   The analysis involved several steps to ensure a comprehensive understanding of the data and its implications:
 
 1. **Preliminary Data Analysis**
-
+  I conducted an extensive data search and compiled the information meticulously. My dataset is the result of thorough and comprehensive research efforts.I conducted an extensive data search and compiled the information meticulously. My dataset is the result of thorough and comprehensive research efforts.
+  
    - Loading and Checking Data:
 **Data_for_Project:** [`Data_for_Project.csv`](../../data/Data_for_Project.csv)  
 # Load the cleaned CSV file
@@ -99,7 +127,8 @@ df1 = pd.read_csv(cleaned_file_path, delimiter=';')
 10. **Feature Importance Analysis**
 
    - Feature Importance: Determining the influence of various factors on happiness using regression coefficients.
-     [Code HERE](analysis.ipynb#Analysis-of-the-importance-of-characteristics)
+     [Code HERE](analysis.ipynb##Analysis-of-the-importance-of-characteristics)
+     
 
 11. **Model Improvement**  
  [Code and conclusions HERE](analysis.ipynb#Trying-different-regression-models)
@@ -109,4 +138,6 @@ df1 = pd.read_csv(cleaned_file_path, delimiter=';')
    - Regularized Regression: Implementing Ridge and Lasso regression to enhance model performance.
    
    - Cross-Validation: Evaluating model robustness and accuracy through cross-validation techniques.
+
+
 
